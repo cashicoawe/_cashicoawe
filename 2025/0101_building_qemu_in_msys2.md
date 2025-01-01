@@ -1,7 +1,9 @@
 # building qemu in msys2
 
-virgl 対応した qemu を msys2 上でビルドした作業ログ  
-virgl はわからないけど whpx は顕著な差が出るので幸せ
+virgl 対応した qemu を msys2 上でビルドした作業ログ 
+
+virgl はわからないけど whpx は顕著な差が出るので幸せ  
+オプション次第でエラーが出るので、そもそもバイナリで問題なかった可能性
 
 # 結論
 
@@ -81,6 +83,14 @@ setup-alpine
 poweroff
 ```
 
+windows で whpx を有効にする  
+```
+# コントロールパネル
+
+プログラム ->
+windowsの機能の有効化または無効化 -> 
+Windows ハイパーバイザー プラットフォーム
+```
 whpx アクセラレーションおよび virgl を有効化して起動する
 
 ```
