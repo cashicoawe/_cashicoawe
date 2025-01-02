@@ -1,0 +1,51 @@
+- Mesa 3D in an Embedded Context - Mark Janes, Intel
+    - https://www.youtube.com/watch?v=oniC93r2o9I
+    - 埋め込みにおける mesa デバッグツールなど
+- Marrying U-Boot, uEFI and grub2 - Alexander Graf, SUSE
+    - https://www.youtube.com/watch?v=qJAkJ3nmWgM
+- Graphics: A Frame's Journey - Daniel Stone, Collabora
+    - https://www.youtube.com/watch?v=nau2dgdXWOk
+- Embedded Graphics Drivers in Mesa (ELCE 2019)
+    - https://www.youtube.com/watch?v=By_XgayTSrY
+    - https://www.slideshare.net/slideshow/embedded-graphics-drivers-in-mesa-elce-2019/192297866
+- ELCE 2022: Navigating the Linux Graphics Stack
+    - https://www.youtube.com/watch?v=WaF7mVhnhtE
+    - 短めでわかりやすい
+- The Open Graphics Stack - Alyssa Rosenzweig, Collabora
+    - https://www.youtube.com/watch?v=e5bPfatf7Wc
+    - linux に限らない graphic stack
+- Getting pixels on screen on Linux: introduction to Kernel Mode Setting - Simon Ser
+    - KMS
+    - https://fs.emersion.fr/protected/presentations/present.html?src=kms-foss-north/index.md#51
+- Tutorial: Building the Simplest Possible Linux System - Rob Landley, se-instruments.com
+    - https://www.youtube.com/watch?v=Sk9TatW9ino
+- The Modern Linux Graphics Stack on Embedded Systems - Michael Tretter, Pengutronix
+    - https://www.youtube.com/watch?v=k9mobviOpFQ
+- The Linux Framebuffer Is Magic
+    - https://www.youtube.com/watch?v=WNRQLessSms
+    - cool
+- Use Firefox WITHOUT X11 or Wayland!
+    - https://www.youtube.com/watch?v=wy8x8nFvd8M
+- Trading fbdev for DRM, No Returns Accepted - Geert Uytterhoeven, Glider bv
+    - https://www.youtube.com/watch?v=9a9IJQJf8PQ
+- An Overview of the Linux and Userspace Graphics Stack , Paul Kocialkowski
+    - https://www.youtube.com/watch?v=wjAJmqwg47k
+- Device Tree: hardware description for everybody !
+    - https://www.youtube.com/watch?v=Nz6aBffv-Ek
+- Steven Rostedt - Learning the Linux Kernel with tracing
+    - https://www.youtube.com/watch?v=JRyrhsx-L5Y
+- XDC 2022 | There are no dragons: porting fbdev drivers to DRM/KMS | Javier Martinez Canillas
+    - https://www.youtube.com/watch?v=woEfqV0l1ik
+- XDC 2022 | moar fps in a vm, with this one little trick | Rob Clark
+    - https://www.youtube.com/watch?v=9sFP_yddLLQ
+- XDC 2023 | October 19 | Wayland driver for Wine: The story so far | Alexandros Frantzis
+    - https://www.youtube.com/watch?v=relxcJiHBnA
+- いまどきの vulkan
+    - https://www.youtube.com/watch?v=CIfezfwbA3g
+    - 好き
+- Brendan Galea
+    - https://www.youtube.com/@BrendanGalea/videos
+    - vulkan game engine tutorial
+- Introduction to OpenGL
+    - by Mike Shah
+    - https://www.youtube.com/playlist?list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox
